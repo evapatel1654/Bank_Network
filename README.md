@@ -8,7 +8,8 @@ https://find-and-update.company-information.service.gov.uk/company/08673664
 
 Radeon Company Ltd. is a US-owned company that deals with Banking and Insurance. The company is intending to expand its services across the African continent having the first branch to be located in Nairobi, Kenya. The company has secured a four-story building to operate within the Kenyan capital city. Therefore, the company would like to allow sourcing the knowledge to design and implement their company network.
 
-Used Concepts :
+# Used Concepts :
+
 • Creating a network topology using Cisco Packet Tracer. 
 
 • Hierarchical Network Design.
